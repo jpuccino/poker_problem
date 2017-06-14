@@ -1,4 +1,5 @@
-#Notes:
+# Notes:
+
 To run the script to calculate the answer do one of the following:
 
 `$ ./calculate_wins.rb`
